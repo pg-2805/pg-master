@@ -1,0 +1,9 @@
+C:\Users\LENOVO\source\repos\UnoCA\Uno\Unno\bin\Debug\Unno.exe.config
+C:\Users\LENOVO\source\repos\UnoCA\Uno\Unno\bin\Debug\Unno.exe
+C:\Users\LENOVO\source\repos\UnoCA\Uno\Unno\bin\Debug\Unno.pdb
+C:\Users\LENOVO\source\repos\UnoCA\Uno\Unno\obj\Debug\Unno.csprojAssemblyReference.cache
+C:\Users\LENOVO\source\repos\UnoCA\Uno\Unno\obj\Debug\Unno.exe
+C:\Users\LENOVO\source\repos\UnoCA\Uno\Unno\obj\Debug\Unno.pdb
+C:\Users\LENOVO\source\repos\UnoCA\Uno\Unno\bin\Debug\Newtonsoft.Json.dll
+C:\Users\LENOVO\source\repos\UnoCA\Uno\Unno\bin\Debug\Newtonsoft.Json.xml
+C:\Users\LENOVO\source\repos\UnoCA\Uno\Unno\obj\Debug\Unno.csproj.CopyComplete
